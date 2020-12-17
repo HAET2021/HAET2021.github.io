@@ -1,5 +1,5 @@
 
-# Keynotes
+# Speakers
 
 - [Warren Gross](#warren-gross)
 - [Julie Grollier](#julie-grollier)
