@@ -27,6 +27,6 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 - equilibrium-propagation-based techniques and/or their hardware implementations,
 - few-shot/few-labels and semi-supervised learning methods for training on chip. 
 
-# Awards and prizes
+# Awards and Prizes
 
 Thanks to our sponsors, in addition to best paper awards we will also award a prize for the most energy-efficient hardware architecture and a prize for the fastest training method on compute clusters.
