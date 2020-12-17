@@ -16,7 +16,7 @@ The authors have to follow the instructions listed below when submitting thier c
 
 # Scope and Topics
 
-The workshop welcomes contributions that seek to reduce the cost of the training process by taking into account the details of the computing hardware (CPU, GPU, IPU, NPU, or any other custom accelerator implemented as an ASIC or on FPGA) including (but not limited to):
+The workshop welcomes contributions that seek to reduce the cost of the training process based on high-level complexity metrics (number of operations, memory usage) or by taking into account the details of the computing hardware (CPU, GPU, IPU, NPU, or any other custom accelerator implemented as an ASIC or on FPGA). Topics of interest include (but are not limited to):
 
 - compression methods to reduce memory usage and/or complexity of deep learning during training,
 - hardware architectures and implementations for deep learning training,
@@ -29,4 +29,4 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 
 # Awards and Prizes
 
-Thanks to our sponsors, in addition to best paper awards we will also award a prize for the most energy-efficient hardware architecture and a prize for the fastest training method on compute clusters.
+Thanks to our sponsors, in addition to best paper awards we will also award a prize for the most energy-efficient hardware architecture and a prize for the fastest training method on compute clusters (details coming soon).
