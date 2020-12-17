@@ -7,7 +7,7 @@
 
 
 |<img src="/orginisers_pictures/vahid.jpg" alt="Vahid Partovi Nia‬" width="225"/>|<img src="/orginisers_pictures/leduc-primeau-francois.jpg" alt="François Leduc-primeau" width="225"/>|<img src="/orginisers_pictures/fan.jpg" alt="Fan Yang-Song" width="225"/>|
-|[Vahid Partovi Nia](https://datawisdom.ca)<br />Huawei Monteal|[François Leduc-primeau]()<br />Polytechnique Montreal|[Fan Yang-Song]()<br />University of Borgogne|
+|[Vahid Partovi Nia](https://datawisdom.ca)<br />Huawei Monteal|[François Leduc-primeau](https://www.gr2m.polymtl.ca/francois-leduc-primeau-en)<br />Polytechnique Montreal|[Fan Yang-Song]()<br />University of Borgogne|
 
 
 |<img src="/orginisers_pictures/andreas.jpg" alt="Andreas Moshovos" width="225"/>
