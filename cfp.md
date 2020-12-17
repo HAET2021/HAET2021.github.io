@@ -11,7 +11,7 @@ The authors have to follow the instructions listed below when submitting thier c
 - Use the ICLR LaTeX [template](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip) to prepare the manuscript.
 - Papers should not be longer than 4 pages, including figures and tables, and excluding references.
 - Do not report author names since the review is double blind.
-- Published work in the main ICLR conference are not accepted for a submition into the workshop. Papers that violate this rule will be rejected.  
+- Papers that have been accepted in the main ICLR conference cannot be submitted to the workshop.  
 - Manuscripts should be submitted using the [CMT](https://cmt3.research.microsoft.com/HAET2021) system. 
 
 # Scope and Topics
