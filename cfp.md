@@ -27,6 +27,14 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 - equilibrium-propagation-based techniques and/or their hardware implementations,
 - few-shot/few-labels and semi-supervised learning methods for training on chip. 
 
+# Competition rules
+
+The competition consists of two tasks, and contestants are free to target only one or both tasks. 
+The first task is training a network on CIFAR10, and the second one is training on CIFAR100.  Note that to be considered in the competition, submissions  are required to achieve at least 93% top-1 accuracy for CIFAR10 and 78% top-1 accuracy for CIFAR100. The authors can either provide a description of the method and the obtained results, or submit a 4 pages paper if they want to present their work at the workshop session as well. Note that submitting the code is mandatory for the competition, and to do so, we invite authors to submit their code as supplementary material. The three less complex methods will be awarded.
+
+Complexity is defined by the number of parameters plus the number of operations required to compute the training process. Note that in this context, we assume that all operations are equivalent. For instance, if a given input is multiplied by a weight, then added with a bias and passed through a RELU, we consider that 3 operations have been performed.
+
+
 # Awards and Prizes
 
 Thanks to our sponsors, in addition to best paper awards we will also award a prize for the most energy-efficient hardware architecture and a prize for the fastest training method on compute clusters (details coming soon).
