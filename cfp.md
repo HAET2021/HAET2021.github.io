@@ -27,7 +27,7 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 - equilibrium-propagation-based techniques and/or their hardware implementations,
 - few-shot/few-labels and semi-supervised learning methods for training on chip. 
 
-# Competition rules
+# Competition Rules
 
 To be announced 
 
