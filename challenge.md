@@ -6,7 +6,7 @@ In parallel with the workshop, we organize a competition. It is not required to 
 
 The aim of the competition is to achieve the best possible accuracy in a classification task given a limited training time. The best three teams will receive awards and will be invited to present their solution during the workshop.
 
-In more details, the training will be performed on an Nvidia V100 GPU running with a XXX processor, with 12GB of memory, with an allowed training time of 10 minutes.
+In more details, the training will be performed on an Nvidia V100 GPU running with an Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz processor, with 12GB of memory, with an allowed training time of 10 minutes.
 
 The competition will be preceded by an open trial phase where participants can stress their methods using a publicly available dataset. But the final dataset used for ranking the submissions will remain secret.
 
