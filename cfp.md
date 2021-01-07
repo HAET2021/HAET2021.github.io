@@ -1,6 +1,6 @@
 # Important Dates
 
-- Paper submission deadline: 26 February 2021.
+- Paper submission deadline: 28 February 2021.
 - Acceptance notification: 26 March 2021.
 - Workshop: 8 May 2021.
 
