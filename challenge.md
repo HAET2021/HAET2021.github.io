@@ -14,7 +14,7 @@ To participate, the candidates must send a pdf describing their method with thei
 
 # Details and important dates
 
-During the trial phase, participants can download all needed code from [here](https://github.com/eghouti/HAET-2021-competition-baseline-code). For this phase, the file dataloader.py uses CIFAR100 to generate datasets. Namely, it choses 10 classes at random from CIFAR100 to generate a classification task. Contestants should try to achieve the best possible accuracy using limited training time. 
+During the trial phase, participants can download all needed code from [here](https://github.com/eghouti/HAET-2021-competition-baseline-code). For this phase, contestants can use the provided code and should try to achieve the best possible accuracy using limited training time. 
 
 Once the participants have their submission ready, they can submit it using the [CMT](https://cmt3.research.microsoft.com/HAET2021/Submission/Manage) link. Before the workshop, submissions will be evaluated using a different dataset (unknown to the participants). The submissions will be evaluated by running the code for a duration of 10 minutes. The task consists in classifying 10 classes with inputs made of 32 by 32 RGB images. 500 inputs per class are available during training and 100 per class for evaluation.
 
@@ -32,3 +32,6 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 
 
 Ranking for the best teams will be displayed online. The best 3 teams will be invited to present their solution during the workshop (few minutes talk) and will receive an award.
+
+
+You may contact us on ghouthi.bouklihacene@imt-atlantique.fr\bouklihg@mila.quebec if you need further details.
