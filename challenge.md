@@ -12,7 +12,7 @@ The competition will be preceded by an open trial phase where participants can s
 
 To participate, the candidates must send a pdf describing their method with their code as supplementary material (more details in the next section). The description can be short (1 page is enough).
 
-# Details and important dates
+# Details and Important Dates
 
 During the trial phase, participants can download all needed code from [here](https://github.com/eghouti/HAET-2021-competition-baseline-code). For this phase, contestants can use the provided code and should try to achieve the best possible accuracy using limited training time. 
 
