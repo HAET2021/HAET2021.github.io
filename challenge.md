@@ -28,10 +28,16 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 
 - Competition submission deadline: 1 March 2021 (11:59 pm UTC-11).
 - Evaluations will be performed by: 1 April 2021.
-- Workshop: 8 May 2021.
+- Workshop: 7 May 2021.
 
 
-Ranking for the best teams will be displayed online. The best 3 teams will be invited to present their solution during the workshop (few minutes talk) and will receive an award.
+Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop (few minutes talk) and will receive an award: first prize is 1000 CAD, second prize is 500 CAD and third prize is 200 CAD. Evaluation has beenmade on the first 10 classes of mini-imagenet [train](https://www.kaggle.com/whitemoon/miniimagenet?select=mini-imagenet-cache-train.pkl) where each class contains 600 images. We used for each class, the first 500 images to train models and the remaining 100 to test them.
+
+| Members                                                                                                 | Team/Affiliation      | Rank | Accuracy |
+|---------------------------------------------------------------------------------------------------------|-----------------------|------|----------|
+|Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 1    | 81.5%    |
+|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 2    | 78.0%    |
+|Hung-Yang Chang, Alexander Hoffman, Yinan Wang, Yuyan Chen and Warren Gross                              | McGill University     | 3    | 75.7%    |
 
 
 You may contact us on ghouthi.bouklihacene@imt-atlantique.fr\bouklihg@mila.quebec if you need further details.
