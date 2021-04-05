@@ -27,7 +27,7 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 # Dates
 
 - Competition submission deadline: 1 March 2021 (11:59 pm UTC-11).
-- Evaluations will be performed by: 1 April 2021.
+- Evaluations will be performed by: 5 April 2021.
 - Workshop: 7 May 2021.
 
 
