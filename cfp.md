@@ -2,6 +2,7 @@
 
 - Paper submission deadline: 28 February 2021 (11:59 pm UTC-11).
 - Acceptance notification: 26 March 2021.
+- Camera ready deadline: 30 April 2021.
 - Workshop: 8 May 2021.
 
 # Author Instructions
