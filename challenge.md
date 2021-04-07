@@ -33,8 +33,9 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop (few minutes talk) and will receive an award: first prize is 1000 CAD, second prize is 500 CAD and third prize is 200 CAD. Evaluation has been made on the first 10 classes of mini-imagenet [train](https://www.kaggle.com/whitemoon/miniimagenet?select=mini-imagenet-cache-train.pkl) where each class contains 600 images. We used for each class, the first 500 images to train models and the remaining 100 to test them. We also resize all images to be 32 by 32 pixels. **Note that the results displayed on the website are not definitive yet, but are used to help participants to check their code and see if we did not do any mistakes and if they are able to achieve better results.**
 
 
-| Members                                                                                                 | Team/Affiliation      | Rank | Accuracy |
-|---------------------------------------------------------------------------------------------------------|-----------------------|------|----------|
+| Members                                                                                                 | Team/Affiliation                   | Rank | Accuracy |
+|---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------|
+|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 1 | 84.8% |
 |Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 2    | 81.5%    |
 |Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 3    | 78.0%    |
 
