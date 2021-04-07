@@ -37,7 +37,7 @@ Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span
 |---------------------------------------------------------------------------------------------------------|-----------------------|------|----------|
 |Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 1    | 81.5%    |
 |Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 2    | 78.0%    |
-|Hung-Yang Chang, Alexander Hoffman, Yinan Wang, Yuyan Chen and Warren Gross                              | McGill University     | 3    | 75.7%    |
+<!---|Hung-Yang Chang, Alexander Hoffman, Yinan Wang, Yuyan Chen and Warren Gross                              | McGill University     | 3    | 75.7%    |-->
 
 
 You may contact us on ghouthi.bouklihacene@imt-atlantique.fr\bouklihg@mila.quebec if you need further details.
