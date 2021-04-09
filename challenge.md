@@ -35,9 +35,11 @@ Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span
 
 | Members                                                                                                 | Team/Affiliation                   | Rank | Accuracy |
 |---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------|
-|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 1 | 84.8% |
-|Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 2    | 81.5%    |
-|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 3    | 78.0%    |
+|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 1    | 86.0%    |
+|Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 2    | 85.7%    |
+
+|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% |
+
 
 
 You may contact us on ghouthi.bouklihacene@imt-atlantique.fr\bouklihg@mila.quebec if you need further details.
