@@ -37,7 +37,6 @@ Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span
 |---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------|
 |Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 1    | 86.0%    |
 |Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 2    | 85.7%    |
-
 |Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% |
 
 
