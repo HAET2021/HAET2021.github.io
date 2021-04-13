@@ -7,7 +7,7 @@ Please note that all provided slots are in Greenwich Mean Time+2 (GMT+2), and us
 
 | **Time (GMT+2)**                                          | **Event**                   |
 | <span style="font-family: monospace;">13:45 14:00</span> | Opening welcome speech:  introducing the aims of the workshop, and briefly introducing the speakers.|
-| <span style="font-family: monospace;">14:00 014:30</span> | Keynote 1: [Warren Gross](/speakers#warren-gross). <br /> **Title: Stochastic Computing for Machine Learning towards an Intelligent Edge**|
+| <span style="font-family: monospace;">14:00 14:30</span> | Keynote 1: [Warren Gross](/speakers#warren-gross). <br /> **Title: Stochastic Computing for Machine Learning towards an Intelligent Edge**|
 | <span style="font-family: monospace;">14:30 15:00</span>  | Keynote 2: [Julie Grollier](/speakers#julie-grollier). <br /> **Title: Spiking Equilibrium Propagation for Autonomously Learning Hardware**|
 | <span style="font-family: monospace;">15:00 15:30</span> | Keynote 3: [Ehsan Saboori](/speakers#ehsan-saboori). <br /> **Title: Deep learning model compression using neural network design space exploration**|
 | <span style="font-family: monospace;">15:30 16:00</span> | Break.|
