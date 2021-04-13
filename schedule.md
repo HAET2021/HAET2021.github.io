@@ -13,6 +13,7 @@ Please note that all provided slots are in Greenwich Mean Time+2 (GMT+2), and us
 | <span style="font-family: monospace;">15:30 16:00</span> | Break.|
 | <span style="font-family: monospace;">16:00 17:30</span> | Poster session and open discussion.|
 | <span style="font-family: monospace;">17:30 18:30</span> | Panel discussion.|
+| <span style="font-family: monospace;">18:30 19:00</span> | Break.|
 | <span style="font-family: monospace;">19:00 19:30</span> | Keynote 4: [Yunhe Wang](/speakers#yunhe-wang). <br /> **Title: AdderNet: Do we really need multiplications in deep learning?**|
 | <span style="font-family: monospace;">19:30 20:00</span> | Keynote 5: [Song Han](/speakers#song-han). <br /> **Title: AutoML for TinyML with Once-for-All Network**|
 | <span style="font-family: monospace;">20:00 20:30</span> | Keynote 6: [Liangwei Ge](/speakers#liangwei-ge). <br /> **Title: Intel AI Technical Solution**|
