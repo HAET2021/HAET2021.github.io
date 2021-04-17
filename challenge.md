@@ -30,13 +30,13 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 - Workshop: 7 May 2021.
 
 
-Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop (few minutes talk) and will receive an award: first prize is 1000 CAD, second prize is 500 CAD and third prize is 200 CAD. Evaluation has been made on the first 10 classes of mini-imagenet [train](https://www.kaggle.com/whitemoon/miniimagenet?select=mini-imagenet-cache-train.pkl) where each class contains 600 images. We used for each class, the first 500 images to train models and the remaining 100 to test them. We also resize all images to be 32 by 32 pixels. **Note that the results displayed on the website are not definitive yet, but are used to help participants to check their code and see if we did not do any mistakes and if they are able to achieve better results.**
+Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop poster session and will receive an award. Evaluation has been made on the first 10 classes of mini-imagenet [train](https://www.kaggle.com/whitemoon/miniimagenet?select=mini-imagenet-cache-train.pkl) where each class contains 600 images. We used for each class, the first 500 images to train models and the remaining 100 to test them. We also resize all images to be 32 by 32 pixels. **Note that the results displayed on the website represent an avverage accuracy over 5 runs.**
 
 
 | Members                                                                                                 | Team/Affiliation                   | Rank | Accuracy |
-|---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------|
-|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 1    | 86.0%    |
-|Gurpreet Gosal, Walid Ahmed, Gordon Deng, Habib Hajimolahoseini, Michael Lim, Omar Mohamed Awad, Yang Liu| Huawei TRC Ascend Team| 2    | 85.7%    |
+|---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------
+|Omar Mohamed Awad, Michael Lim, Gurpreet Gosal, Habib Hajimolahoseini, Walid Ahmed, Yang Liu, Gordon Deng| Huawei TRC Ascend Team| 1    | 88.0%    |
+|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 2    | 86.0%    |
 |Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% |
 
 
