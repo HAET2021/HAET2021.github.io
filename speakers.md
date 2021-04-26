@@ -52,7 +52,7 @@
 
 ## Yunhe Wang
 
-| <img src="/speakers_pictures/" alt="YunheWang.jpg" height="250px" /> |
+| <img src="/speakers_pictures/YunheWang.jpg" alt="Yunhe Wang.jpg" height="250px" /> |
 | **AdderNet: Do we really need multiplications in deep learning?** |
 | To reduce the costs for launching deep neural networks, we present a new kind of calculation paradigm that only utilizes additions to establish models with high performance, namely, Adder Neural Network (AdderNet). By exploiting a series of optimization approaches (e.g. better optimizer, knowledge distillation, quantization) for enhancing the resulting performance, AdderNet now can achieve a 93.3% Top-5 accuracy using ResNet-50 on the ImageNet. The FPGA hardware implementation also demonstrates that the energy consumption and circuit areas required by networks can be reduced about 70% using 16bit/8bit AdderNets. We further successfully apply the AdderNet on the image super-resolution to show its superiority. |
 
