@@ -28,6 +28,6 @@ The table below reports accepted papers and their id. Note that those ids are us
 The table below reports the 3 winners of the competition and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town link.
 
 | Paper id                                         | Title                  |
-|        1 | |
+|        1 |Improving ResNet-9 Generalization Trained on Small Datasets |
 |        2 | |
 |        3 | |
