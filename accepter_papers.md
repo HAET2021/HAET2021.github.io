@@ -1,36 +1,33 @@
 
-# Schedule
+# Accepted Papers
 
-Please note that all provided slots are in Greenwich Mean Time+2 (GMT+2), and use a 24h format. You may use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
-
+The table below reports accepted papers and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town link.  
 
 
 | Paper id                                         | Title                  |
-| 1  | |
-| 2  | |
-| 3  | |
-| 4  | |
-| 5  | |
-| 6  | |
-| 7  | |
-| 8  | |
-| 9  | |
-| 10 | |
-| 11 | |
-| 12 | |
-| 13 | |
-| 14 | |
-| 15 | |
-| 16 | |
-| 17 | |
-| <span style="font-family: monospace;">14:00 14:30</span> | Keynote 1: [Warren Gross](/speakers#warren-gross). <br /> **Title: Stochastic Computing for Machine Learning towards an Intelligent Edge**|
-| <span style="font-family: monospace;">14:30 15:00</span>  | Keynote 2: [Julie Grollier](/speakers#julie-grollier). <br /> **Title: Spiking Equilibrium Propagation for Autonomously Learning Hardware**|
-| <span style="font-family: monospace;">15:00 15:30</span> | Keynote 3: [Ehsan Saboori](/speakers#ehsan-saboori). <br /> **Title: Deep learning model compression using neural network design space exploration**|
-| <span style="font-family: monospace;">15:30 16:00</span> | Break.|
-| <span style="font-family: monospace;">16:00 17:30</span> | Poster session and open discussion.|
-| <span style="font-family: monospace;">17:30 18:30</span> | Panel discussion.|
-| <span style="font-family: monospace;">18:30 19:00</span> | Break.|
-| <span style="font-family: monospace;">19:00 19:30</span> | Keynote 4: [Yunhe Wang](/speakers#yunhe-wang). <br /> **Title: AdderNet: Do we really need multiplications in deep learning?**|
-| <span style="font-family: monospace;">19:30 20:00</span> | Keynote 5: [Song Han](/speakers#song-han). <br /> **Title: AutoML for TinyML with Once-for-All Network**|
-| <span style="font-family: monospace;">20:00 20:30</span> | Keynote 6: [Liangwei Ge](/speakers#liangwei-ge). <br /> **Title: Intel AI Technical Solution**|
-| <span style="font-family: monospace;">20:30 21:00</span> | Announcement  of  the  different  award  winners and closing remarks.|
+|        1 | GradMax: Gradient Maximizing Neural Network Growth  |
+|        2 | GRADIENT MATCHING FOR EFFICIENT LEARNING|
+|        3 | FULLY QUANTIZING TRANSFORMER-BASED ASR FOR EDGE DEPLOYMENT|
+|        4 | ActorQ: Quantization for Actor-Learner Distributed Reinforcement Learning|
+|        5 | Optimizer Fusion: Efficient Training with Better Locality and Parallelism|
+|        6 | Grouped Sparse Projection for Deep Learning|
+|        7 | Gradient descent with momentum using dynamic stochastic computing|
+|        8 | Memory-Bounded Sparse Training on the Edge|
+|        9 | A Fast Method to Fine-tune Neural Networks for the Least Energy Consumption on FPGAs|
+|        10 | Self-reflective Variational Autoencoder|
+|        11 | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions|
+|        12 | An Exact Penalty Method for Binary Training|
+|        13 | Training CNNs faster with Input and Kernel Downsampling|
+|        14 | On-FPGA Training with Ultra Memory Reduction: A Low-Precision Tensor Method|
+|        15 | MoIL: Enabling Efficient Incremental Training on Edge Devices|
+|        16 | Heterogeneous Zero-Shot Federated Learning with New Classes for Audio Classification|
+|        17 | Scaling Deep Networks with the Mesh Adaptive Direct Search Algorithm|
+
+
+ 
+The table below reports the 3 winners of the competition and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town link.
+
+| Paper id                                         | Title                  |
+|        1 | |
+|        2 | |
+|        3 | |
