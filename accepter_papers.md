@@ -1,7 +1,7 @@
 
 # Accepted Papers
 
-Note that to attend the event, a registration on the ICLR [website](https://iclr.cc/) is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136) or use the zoom link by clicking on "join zoom" on the the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136).
+Note that to attend the event, a registration on the ICLR [website](https://iclr.cc/) is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136) or use the zoom link by clicking on "join zoom" on the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136).
 
 The table below reports accepted papers and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town [link](https://eventhosts.gather.town/app/8GTU1Np5og1tJ0ab/Poster%20Session).  
 
