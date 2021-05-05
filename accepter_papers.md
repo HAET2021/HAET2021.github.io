@@ -30,6 +30,6 @@ The table below reports accepted papers and their id. Note that those ids are us
 The table below reports the 3 winners of the competition and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town [link](https://eventhosts.gather.town/app/8GTU1Np5og1tJ0ab/Poster%20Session).
 
 | Paper id                                         | Title                  |
-|        1 |Improving ResNet-9 Generalization Trained on Small Datasets |
-|        2 | |
-|        3 | Training a 5000×32×32×3 RGB Dataset on NVIDIA TESLA V100 in 10 Minutes |
+|        18 |Improving ResNet-9 Generalization Trained on Small Datasets |
+|        19 | Efficent Training Under Limited Resources |
+|        20 | Training a 5000×32×32×3 RGB Dataset on NVIDIA TESLA V100 in 10 Minutes |
