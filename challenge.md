@@ -36,8 +36,8 @@ Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span
 | Members                                                                                                 | Team/Affiliation                   | Rank | Accuracy | Code|
 |---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------
 |Omar Mohamed Awad, Michael Lim, Gurpreet Gosal, Habib Hajimolahoseini, Walid Ahmed, Yang Liu, Gordon Deng| Huawei TRC Ascend Team| 1    | 88.0%    | [link](https://github.com/Omar-Awad/HAET2021_Huawei) |
-|Dounia Lakhmiri                                                                                          | Polytechnique Montréal| 2    | 86.0%    | link |
-|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% | link|
+|Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel| Polytechnique Montréal| 2    | 86.0%    | [link]( https://github.com/DouniaLakhmiri/ICLR_HAET2021) |
+|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% | [link](https://github.com/xmhosseini/HAET2021)|
 
 
 
