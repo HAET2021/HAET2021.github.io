@@ -31,5 +31,5 @@ The table below reports the 3 winners of the competition and their id. Note that
 
 | Paper id                                         | Title                  |
 |        18 |Improving ResNet-9 Generalization Trained on Small Datasets |
-|        19 | Efficent Training Under Limited Resources |
+|        19 | Efficient Training Under Limited Resources |
 |        20 | Training a 5000×32×32×3 RGB Dataset on NVIDIA TESLA V100 in 10 Minutes |
