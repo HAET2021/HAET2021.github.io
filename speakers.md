@@ -63,8 +63,8 @@
 ## Liangwei Ge
 
 | <img src="/speakers_pictures/luke.jpeg" alt="Liangwei Ge" height="250px" /> |
-| **Intel AI Technical Solution** |
-| The presentation will provide a comprehensive summary of the various technologies, solutions, and best practices that Intel provides to the industry for tacking some of the challenges of training DNN models. It covers the full AI stack, from underlying hardware to libraries, frameworks, and SDKs at three different levels: cluster-level, node-level, and instruction-level. |
+| **Deep learning challenges and how Intel is addressing them** |
+| The presentation provides a comprehensive summary of the challenges of training deep learning models that we face today and shows how Intel is addressing them. Various technologies, solutions, and best practices that Intel provides to the industry for tackling these challenges are introduced. It covers the challenges at full scale: from cluster, node levels down to core, kernel levels. |
 
 | **Affiliation** | [Intel]() |
 | **Biography** | Liangwei Ge is an artificial intelligence (AI) Technical Solution Specialist (TSS) within Intel. His particular focus is on AI workload optimizations, like distributed training across a cluster, processing of large, high-resolution, 3D images, and inferencing at the data center and edge devices. He obtained his PhD in Electronics Design Automation (EDA), Waseda Univ., Japan. |
