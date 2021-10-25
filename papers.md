@@ -18,26 +18,51 @@ This is the list of all accepted papers.
 
 
 **GRADIENT MATCHING FOR EFFICIENT LEARNING** <br />
-Yair Schiff &bull; Payel Das &bull; Vijil Chenthamarakshan &bull; Karthikeyan Natesan Ramamurthy<br />
-<abstract>Deep generative models are increasingly becoming integral parts of the in silico molecule design pipeline and have dual goals of learning the chemical and structural features that render candidate molecules viable while also being flexible enough to generate novel designs. Specifically, Variational Auto Encoders (VAEs) are generative models in which encoder-decoder network pairs are trained to reconstruct training data distributions in such a way that the latent space of the encoder network is smooth. Therefore, novel candidates can be found by sampling from this latent space. However, the scope of architectures and hyperparameters is vast and choosing the best combination for in silico discovery has important implications for downstream success. Therefore, it is important to develop a principled methodology for distinguishing how well a given generative model is able to learn salient molecular features. In this work, we propose a method for measuring how well the latent space of deep generative models is able to encode structural and chemical features of molecular datasets by correlating latent space metrics with metrics from the field of topological data analysis (TDA). We apply our evaluation methodology to a VAE trained on SMILES strings and show that 3D topology information is consistently encoded throughout the latent space of the model.</abstract>
+Krishnateja Killamsetty; Durga S; Baharan Mirzasoleiman; Ganesh Ramakrishnan; Abir De; Rishabh Iyer<br />
+<abstract>The great success of modern machine learning models on large datasets is contingent on extensive computational resources with high financial and environmental
+costs. One way to address this is by extracting subsets that generalize on par with the full data. In this work, we propose a general framework, GRAD-MATCH, which
+finds subsets that closely match the gradient of the training or validation set. We find such subsets effectively using an orthogonal matching pursuit algorithm. Our
+extensive experiments on real-world datasets show that GRAD-MATCH significantly and consistently outperforms several recent data-selection algorithms and is Pareto-optimal with respect to the accuracy-efficiency trade-off.</abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=AN6v6MkWG__)
 
-<div id="presentation-embed-38941579"></div>
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38941579', {
-        presentationId: '38941579',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
 
-<div style="text-align:center">
-&#10086;
-</div>
+**FULLY QUANTIZING TRANSFORMER-BASED ASR FOR EDGE DEPLOYMENT** <br />
+Alex Bie; Bharat Venkitesh; Joao B Monteiro; Md. Akmal Haidar; Mehdi Rezagholizadeh<br />
+<abstract>While significant improvements have been made in recent years in terms of end-to-end automatic speech recognition (ASR) performance, such improvements were obtained through the use of very large neural networks, unfit for embedded use on edge devices. That being said, in this paper, we work on simplifying and compressing Transformer-based encoder-decoder architectures for the end-to-end ASR task. We empirically introduce a more compact Speech-Transformer by investigating the impact of discarding particular modules on the performance of the model. Moreover, we evaluate reducing the numerical precision of our network’s weights and activations while maintaining the performance of the full-precision model. Our experiments show that we can reduce the number of parameters of the full-precision model and then further compress the model 4x by fully quantizing to 8-bit fixed point precision.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**ACTORQ: QUANTIZATION FOR ACTOR-LEARNER DISTRIBUTED REINFORCEMENT LEARNING** <br />
+Maximilian Lam; Sharad Chitlangia; Srivatsan Krishnan; Zishen Wan; Gabriel Barth-Maron; Aleksandra Faust; Vijay Janapa Reddi<br />
+<abstract>In this paper, we introduce a novel Reinforcement Learning (RL) training framework, ActorQ, for speeding up actor-learner distributed RL training. ActorQ leverages full precision optimization on the learner, and distributed data collection through lower-precision quantized actors. The quantized, 8-bit (or 16 bit) inference on actors, speeds up data collection without affecting the convergence. The quantized distributed RL training system, ActorQ, demonstrates end to end speedups of > 1.5 × - 2.5 ×, and faster convergence over full precision training on a range of tasks (Deepmind Control Suite) and different RL algorithms (D4PG, DQN). Finally, we break down the various runtime costs of distributed RL training (such as communication time, inference time, model load time, etc) and evaluate the effects of quantization on these system attributes.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**OPTIMIZER FUSION: EFFICIENT TRAINING WITH BETTER LOCALITY AND PARALLELISM** <br />
+Zixuan Jiang; Jiaqi Gu; Mingjie Liu; Keren Zhu; David Z Pan<br />
+<abstract>Machine learning frameworks adopt iterative optimizers to train neural networks. Conventional eager execution separates the updating of trainable parameters from forward and backward computations. However, this approach introduces nontrivial training time overhead due to the lack of data locality and computation parallelism. In this work, we propose to fuse the optimizer with forward or backward computation to better leverage locality and parallelism during training. By re-ordering the forward computation, gradient calculation, and parameter updating, our proposed method improves the efficiency of iterative optimizers. Experimental results demonstrate that we can achieve an up to 20% training time reduction on various configurations. Since our methods do not alter the optimizer algorithm, they can be used as a general “plug-in” technique to the training process.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**GROUPED SPARSE PROJECTION FOR DEEP LEARNING** <br />
+Riyasat Ohib; Nicolas Gillis; Sameena Shah; Vamsi K Potluru; Sergey Plis<br />
+<abstract>Accumulating empirical evidence shows that very large deep learning models learn faster and achieve higher accuracy than their smaller counterparts. Yet, smaller models have benefits of energy efficiency and are often easier to interpret. To simultaneously get the benefits of large and small models we often encourage sparsity in the model weights of large models. For this, different approaches have been proposed including weight-pruning and distillation. Unfortunately, most existing approaches do not have a controllable way to request a desired value of sparsity as an interpretable parameter and get it right in a single run. In this work, we design a new sparse projection method for a set of weights in order to achieve a desired average level of sparsity without additional hyperparameter tuning which is measured using the ratio of the l1 and l2 norms. Instead of projecting each vector of the weight matrix individually, or using sparsity as a regularizer, we project all vectors together to achieve an average target sparsity, where the sparsity levels of the individual vectors of the weight matrix are automatically tuned. Our projection operator has the following guarantees – (A) it is fast and enjoys a runtime linear in the size of the vectors; (B) the solution is unique except for a measure set of zero. We utilize our projection operator to obtain the desired sparsity of deep learning models in a single run with a negligible performance hit, while competing methods require sparsity hyperparameter tuning. Even with a single projection of a pre-trained dense model followed by fine-tuning, we show empirical performance competitive to the state of the art. We support these claims with empirical evidence on real-world datasets and on a number of architectures, comparing it to other state of the art methods including DeepHoyer.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
 
 **giotto-tda: A Topological Data Analysis Toolkit for Machine Learning and Data Exploration** (Spotlight presentation)<br />
 Guillaume Tauzin &bull; Umberto Lupo &bull; Lewis Tunstall &bull; Julian Burella Perez &bull; Matteo Caorsi &bull; Wojciech Reise &bull; Anibal Maximiliano Medina-Mardones &bull; Alberto Dassatti &bull; Kathryn Hess<br />
