@@ -12,7 +12,7 @@ This is the list of all accepted papers.
  <br /> Utku Evci; Fabian Pedregosa; Max Vladymyrov; Thomas Unterthiner<br />
 <abstract>Neural networks are often optimized in a fixed parameter space, i.e. architectures are chosen before training and kept constant. In this work we instead focus on starting training with a small seed architecture and letting the network grow itself using a simple idea: maximizing gradients. Studying this idea we propose a new technique called Gradient Maximizing Growth (GradMax). GradMax is fast, maximizes gradient norm and improves optimization speed/time.</abstract>
 
-[PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
+[PDF](https://www.dropbox.com/s/5ip0wp35gdcckgg/_ICLR21_WS__GradMax%20%285%29.pdf?dl=0) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
 [Presentation](https://youtu.be/IYm0v6OxYU0)
 
