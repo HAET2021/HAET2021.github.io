@@ -64,6 +64,53 @@ Riyasat Ohib; Nicolas Gillis; Sameena Shah; Vamsi K Potluru; Sergey Plis<br />
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=AN6v6MkWG__)
 
+
+**GRADIENT DESCENT WITH MOMENTUM USING DYNAMIC STOCHASTIC COMPUTING** 
+ <br />Siting Liu & Warren J. Gross<br />
+<abstract>In this paper, dynamic stochastic computing is used to simplify the computations involved in updating the weights in neural networks. Specifically, a stochastic circuit is proposed to perform the gradient descent algorithm with momentum, including the exponential moving average operations in the optimizer and iterative update of the weights. The use of stochastic circuits can reduce the hardware resources and energy consumption compared to conventional fixed-/floating-point arithmetic circuits, since information is processed in the form of single bits in stochastic circuits instead of fixed-/floating-point numbers. The stochastic circuits are then deployed in the training of VGG16, ResNet18 and MobileNetV2 on CIFAR-10 dataset. A similar test accuracy is obtained compared to their floating-point implementations.</abstract>
+
+[PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
+[Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
+
+
+**MEMORY-BOUNDED SPARSE TRAINING ON THE EDGE** <br />
+Xiaolong Ma; Zhengang Li; Geng Yuan; Wei Niu; Bin Ren; Yanzhi Wang; Xue Lin<br />
+<abstract>Recently, a new trend of exploring sparsity for accelerating neural network training has emerged, embracing the paradigm of training on the edge. Different from the existing works for sparse training, this work identifies the memory footprint as a critical limiting factor and reveals the importance of sparsity schemes on the performance of sparse training in terms of accuracy, training speed, and memory footprint. To achieve that, this paper presents a novel solution that can enable the end-to-end sparse training of deep neural networks on edge devices. Specifically, the proposed Memory-Bounded Sparse Training (MBST) framework (i) practically restricts the memory footprint to support the end-to-end training on the edge, and (ii) achieves significant training speedups in relevance to the sparsity schemes, (iii) with the capability of maintaining high accuracy. On CIFAR-100, the MBST consistently outperforms representative SOTA works in all aspects of accuracy, training speed, and memory footprint.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+
+**A FAST METHOD TO FINE-TUNE NEURAL NETWORKS FOR THE LEAST ENERGY CONSUMPTION ON FPGAS** 
+ <br />Morteza Hosseini; Mohammad Ebrahimabadi; Arnab Mazumder; Houman Homayoun; Tinoosh Mohseninn<br />
+<abstract>Because of their simple hardware requirements, low bitwidth neural networks (NNs) have gained significant attention over the recent years, and have been extensively employed in electronic devices that seek efficiency and performance. Research has shown that scaled-up low bitwidth NNs can have accuracy levels on par with their full-precision counterparts. As a result, there seems to be a trade-off between quantization (q) and scaling (s) of NNs to maintain the accuracy. In this paper, we propose QS-NAS which is a systematic approach to explore the best quantization and scaling factors for a NN architecture that satisfies a targeted accuracy level and results in the least energy consumption per inference when de-ployed to a hardware–FPGA in this work. Compared to the literature using the same VGG-like NN with different q and s over the same datasets, our selected optimal NNs deployed to a low-cost tiny Xilinx FPGA from the ZedBoard resulted in accuracy levels higher or on par with those of the related work, while giving the least power dissipation and the highest inference/Joule.</abstract>
+
+[PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
+[Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
+
+
+**SELF-REFLECTIVE VARIATIONAL AUTOENCODER** <br />
+Ifigeneia Apostolopoulou; Elan Rosenfeld; Artur Dubrawski<br />
+<abstract>The Variational Autoencoder (VAE) is a powerful framework for learning probabilistic latent variable generative models. However, typical assumptions on the approximate posterior distributions can substantially restrict its capacity for inference and generative modeling. More importantly, the restricted capacity is usually compensated for by increasing complexity of the latent space, adding significant computational and memory overhead. In this work, we introduce an orthogonal solution which layer-wise intertwines the latent and observed space, a process we call self-reflective inference. By modifying the structure of existing VAE architectures, self-reflection ensures that the stochastic flow preserves the factorization of the exact posterior, updating the latent codes to be consistent with the generative model. We empirically demonstrate the computational advantages of matching the variational posterior to the exact generative posterior. On binarized MNIST, self-reflective inference achieves state of the art performance without resorting to complex, expensive components such as autoregressive layers. On CIFAR-10, our model matches or outperforms very deep architectures with orders of magnitude smaller stochastic layers, achieving a high compression ratio in a fraction of the training time, without diminishing accuracy. Our proposed modification is quite general and complements the existing literature. Self-reflective inference can naturally leverage advances in distribution estimation and generative modeling to improve the capacity of each layer in the hierarchy.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**ADAPTIVE FILTERS AND AGGREGATOR FUSION FOR EFFICIENT GRAPH CONVOLUTIONS** <br />
+Shyam A Tailor; Felix Opolka; Pietro Lió; Nic Lane<br />
+<abstract>TTraining and deploying graph neural networks (GNNs) remains difficult due to their high memory consumption and inference latency. In this work we present a new type of GNN architecture that achieves state-of-the-art performance with lower memory consumption and latency, along with characteristics suited to accelerator implementation. Our proposal uses memory proportional to the number of vertices in the graph, in contrast to competing methods which require memory proportional to the number of edges; we find our efficient approach actually achieves higher accuracy than competing approaches across 5 large and varied datasets against strong baselines. We achieve our results by using a novel adaptive filtering approach inspired by signal processing; it can be interpreted as enabling each vertex to have its own weight matrix, and is not related to attention. Following our focus on efficient hardware usage, we propose aggregator fusion, a technique to enable GNNs to significantly boost their representational power, with only a small increase in latency of 19% over standard sparse matrix multiplication. Code and pretrained models can be found at this URL: https://github.com/shyam196/egc.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
 **giotto-tda: A Topological Data Analysis Toolkit for Machine Learning and Data Exploration** (Spotlight presentation)<br />
 Guillaume Tauzin &bull; Umberto Lupo &bull; Lewis Tunstall &bull; Julian Burella Perez &bull; Matteo Caorsi &bull; Wojciech Reise &bull; Anibal Maximiliano Medina-Mardones &bull; Alberto Dassatti &bull; Kathryn Hess<br />
 <abstract>We introduce giotto-tda, a Python library that integrates high-performance topological data analysis with machine learning via a scikit-learn-compatible API and state-of-the-art C++ implementations. The library's ability to handle various types of data is rooted in a wide range of preprocessing techniques, and its strong focus on data exploration and interpretability is aided by an intuitive plotting API. Source code, binaries, examples, and documentation can be found at https://github.com/giotto-ai/giotto-tda</abstract>
