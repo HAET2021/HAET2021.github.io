@@ -1,6 +1,6 @@
 # Important Dates
 
-- Paper REEEEEEsubmission deadline: 28 February 2021 (11:59 pm UTC-11).
+- Paper submission deadline: 28 February 2021 (11:59 pm UTC-11).
 - Acceptance notification: 26 March 2021.
 - Camera ready deadline: 30 April 2021 (11:59 pm UTC-11).
 - Workshop: 7 May 2021.
