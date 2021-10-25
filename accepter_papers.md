@@ -6,8 +6,8 @@ Note that to attend the event, a registration on the ICLR [website](https://iclr
 The table below reports accepted papers and their id. Note that those ids are used to identify corresponding posters in the poster session using Gather.town [link](https://eventhosts.gather.town/app/8GTU1Np5og1tJ0ab/Poster%20Session).  
 
 
-| Paper id                                         | Title                  |
-|        1 | GradMax: Gradient Maximizing Neural Network Growth  |
+| Paper id                                         |                   |
+|        1 | Title: GradMax: Gradient Maximizing Neural Network Growth  |
 |        2 | GRADIENT MATCHING FOR EFFICIENT LEARNING|
 |        3 | FULLY QUANTIZING TRANSFORMER-BASED ASR FOR EDGE DEPLOYMENT|
 |        4 | ActorQ: Quantization for Actor-Learner Distributed Reinforcement Learning|
