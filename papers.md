@@ -9,7 +9,7 @@ This is the list of all accepted papers.
 # Spotlights
 
 **GradMax: Gradient Maximizing Neural Network Growth** 
- <br /> Utku Evci (Google)*; Fabian Pedregosa (Google); Max Vladymyrov (Google); Thomas Unterthiner (Google Research, Brain Team) <br />
+ <br /> Utku Evci; Fabian Pedregosa; Max Vladymyrov; Thomas Unterthiner<br />
 <abstract>Neural networks are often optimized in a fixed parameter space, i.e. architectures are chosen before training and kept constant. In this work we instead focus on starting training with a small seed architecture and letting the network grow itself using a simple idea: maximizing gradients. Studying this idea we propose a new technique called Gradient Maximizing Growth (GradMax). GradMax is fast, maximizes gradient norm and improves optimization speed/time.</abstract>
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
