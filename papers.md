@@ -14,7 +14,7 @@ This is the list of all accepted papers.
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
+[Presentation](https://openreview.net/forum?id=Aw9DUXPjq55)
 
 
 **GRADIENT MATCHING FOR EFFICIENT LEARNING** <br />
@@ -26,7 +26,7 @@ extensive experiments on real-world datasets show that GRAD-MATCH significantly 
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **FULLY QUANTIZING TRANSFORMER-BASED ASR FOR EDGE DEPLOYMENT** <br />
@@ -35,7 +35,7 @@ Alex Bie; Bharat Venkitesh; Joao B Monteiro; Md. Akmal Haidar; Mehdi Rezagholiza
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **ACTORQ: QUANTIZATION FOR ACTOR-LEARNER DISTRIBUTED REINFORCEMENT LEARNING** <br />
@@ -44,7 +44,7 @@ Maximilian Lam; Sharad Chitlangia; Srivatsan Krishnan; Zishen Wan; Gabriel Barth
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **OPTIMIZER FUSION: EFFICIENT TRAINING WITH BETTER LOCALITY AND PARALLELISM** <br />
@@ -53,7 +53,7 @@ Zixuan Jiang; Jiaqi Gu; Mingjie Liu; Keren Zhu; David Z Pan<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **GROUPED SPARSE PROJECTION FOR DEEP LEARNING** <br />
@@ -62,7 +62,7 @@ Riyasat Ohib; Nicolas Gillis; Sameena Shah; Vamsi K Potluru; Sergey Plis<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **GRADIENT DESCENT WITH MOMENTUM USING DYNAMIC STOCHASTIC COMPUTING** 
@@ -71,7 +71,7 @@ Riyasat Ohib; Nicolas Gillis; Sameena Shah; Vamsi K Potluru; Sergey Plis<br />
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
+[Presentation](https://openreview.net/forum?id=Aw9DUXPjq55)
 
 
 **MEMORY-BOUNDED SPARSE TRAINING ON THE EDGE** <br />
@@ -80,7 +80,7 @@ Xiaolong Ma; Zhengang Li; Geng Yuan; Wei Niu; Bin Ren; Yanzhi Wang; Xue Lin<br /
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 
@@ -90,7 +90,7 @@ Xiaolong Ma; Zhengang Li; Geng Yuan; Wei Niu; Bin Ren; Yanzhi Wang; Xue Lin<br /
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
+[Presentation](https://openreview.net/forum?id=Aw9DUXPjq55)
 
 
 **SELF-REFLECTIVE VARIATIONAL AUTOENCODER** <br />
@@ -99,7 +99,7 @@ Ifigeneia Apostolopoulou; Elan Rosenfeld; Artur Dubrawski<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **ADAPTIVE FILTERS AND AGGREGATOR FUSION FOR EFFICIENT GRAPH CONVOLUTIONS** <br />
@@ -108,7 +108,7 @@ Shyam A Tailor; Felix Opolka; Pietro Lió; Nic Lane<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 **An Exact Penalty Method for Binary Training** <br />
 Tim Dockhorn; Yaoliang Yu; Vahid Partovi Nia; Eyyüb Sari<br />
@@ -117,7 +117,7 @@ Tim Dockhorn; Yaoliang Yu; Vahid Partovi Nia; Eyyüb Sari<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 
@@ -127,7 +127,7 @@ Zissis Poulos; Ali Nouri; Andreas Moshovos<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **ON-FPGA TRAINING WITH ULTRA MEMORY REDUCTION: A LOW- PRECISION TENSOR METHOD** <br />
@@ -136,7 +136,7 @@ Kaiqi Zhang; Cole Hawkins; Xiyuan Zhang; Cong Hao; Zheng Zhang<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 
@@ -146,7 +146,7 @@ Jiacheng Yang; James Gleeson; Mostafa Elhoushi; Gennady Pekhimenko<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 **HETEROGENEOUS ZERO-SHOT FEDERATED LEARNING WITH NEW CLASSES FOR AUDIO CLASSIFICATION** <br />
@@ -155,7 +155,7 @@ Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 **EFFICIENT TRAINING UNDER LIMITED RESOURCES** <br />
 Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel<br />
@@ -163,7 +163,7 @@ Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Di
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+[Presentation](https://openreview.net/forum?id=AN6v6MkWG__)
 
 
 
