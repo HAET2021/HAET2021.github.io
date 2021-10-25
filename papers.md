@@ -148,8 +148,8 @@ Jiacheng Yang; James Gleeson; Mostafa Elhoushi; Gennady Pekhimenko<br />
 Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 <abstract>Federated learning is an effective way of extracting insights from different user devices while preserving the privacy of users. However, new classes with completely unseen data distributions can stream across any device in a federated learning setting, whose data cannot be accessed by the global server or other users. To this end, we propose a unified zero-shot framework to handle these aforementioned challenges during federated learning. We simulate two scenarios here – 1) when the new class labels are not reported by the user, the traditional FL setting is used; 2) when new class labels are reported by the user, we synthesize Anonymized Data Impressions by calculating class similarity matrices corresponding to each device’s new classes followed by unsupervised clustering to distinguish between new classes across different users. Moreover, our proposed framework can also handle statistical heterogeneities in both labels and models across the participating users. We empirically evaluate our framework on-device across different communication rounds (FL iterations) with new classes in both local and global updates, along with heterogeneous labels and models, on two widely used audio classification applications – keyword spotting and urban sound classification, and observe an average deterministic accuracy increase of ∼4.041% and ∼4.258% respectively.</abstract>
 
-[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[PDF](https://www.dropbox.com/s/qbjw17lc0hnzkd4/HETEROGENEOUS%20ZERO-SHOT%20FEDERATED%20LEARNING%20WITH%20NEW%20CLASSES%20FOR%20AUDIO%20CLASSIFICATION%20Paper.pdf?dl=0) &bull;
+[Poster](https://www.dropbox.com/s/rvsqf3n1nbm9guc/HETEROGENEOUS%20ZERO-SHOT%20FEDERATED%20LEARNING%20WITH%20NEW%20CLASSES%20FOR%20AUDIO%20CLASSIFICATION%20Poster.pdf?dl=0) &bull;
 [Presentation](https://youtu.be/8MQ8bAXT7eQ)
 
 **EFFICIENT TRAINING UNDER LIMITED RESOURCES** <br />
