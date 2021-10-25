@@ -10,8 +10,7 @@ navigation:
   Organisers: "/organisers"
   Keynotes: "/speakers"
   Schedule: "/schedule"
-  Accepted Papers: "/accepter_papers"
-  Tested Papers: "/papers"
+  Accepted Papers: "/papers"
  
 markdown: kramdown
 
