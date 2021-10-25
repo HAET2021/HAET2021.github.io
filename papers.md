@@ -25,7 +25,7 @@ finds subsets that closely match the gradient of the training or validation set.
 extensive experiments on real-world datasets show that GRAD-MATCH significantly and consistently outperforms several recent data-selection algorithms and is Pareto-optimal with respect to the accuracy-efficiency trade-off.</abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) 
 
 
 
@@ -43,7 +43,7 @@ Maximilian Lam; Sharad Chitlangia; Srivatsan Krishnan; Zishen Wan; Gabriel Barth
 <abstract>In this paper, we introduce a novel Reinforcement Learning (RL) training framework, ActorQ, for speeding up actor-learner distributed RL training. ActorQ leverages full precision optimization on the learner, and distributed data collection through lower-precision quantized actors. The quantized, 8-bit (or 16 bit) inference on actors, speeds up data collection without affecting the convergence. The quantized distributed RL training system, ActorQ, demonstrates end to end speedups of > 1.5 × - 2.5 ×, and faster convergence over full precision training on a range of tasks (Deepmind Control Suite) and different RL algorithms (D4PG, DQN). Finally, we break down the various runtime costs of distributed RL training (such as communication time, inference time, model load time, etc) and evaluate the effects of quantization on these system attributes.</abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) 
 
 
 
@@ -162,7 +162,7 @@ Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Di
 <abstract>Training time budget and size of the dataset are among the factors affecting the performance of a Deep Neural Network (DNN). This paper shows that Neural Architecture Search (NAS), Hyper Parameters Optimization (HPO), and Data Augmentation help DNNs perform much better while these two factors are limited. However, searching for an optimal architecture and the best hyperparameter values besides a good combination of data augmentation techniques under low resources requires many experiments. We present our approach to achieving such a goal in three steps: reducing training epoch time by compressing the model while maintaining the performance compared to the original model, preventing model overfitting when the dataset is small, and performing the hyperparameter tuning. We used NOMAD, which is a blackbox optimization software based on a derivative-free algorithm to do NAS and HPO. Our work achieved an accuracy of 86.0% on a tiny subset of Mini-ImageNet (Vinyals et al., 2016) at the ICLR 2021 Hardware Aware Efficient Training (HAET) Challenge and won second place in the competition.</abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) 
 
 
 
