@@ -8,29 +8,16 @@ This is the list of all accepted papers.
 
 # Spotlights
 
-**GradMax: Gradient Maximizing Neural Network Growth** (Spotlight presentation)<br />
-Celia Hacker<br />
-<abstract>We present a novel method of associating Euclidean features to simplicial complexes, providing a way to use them as input to statistical and machine learning tools. This method extends the node2vec algorithm to simplices of higher dimensions, providing insight into the structure of a simplicial complex, or into the higher-order interactions in a graph. </abstract>
+**GradMax: Gradient Maximizing Neural Network Growth** 
+ <br /> Utku Evci (Google)*; Fabian Pedregosa (Google); Max Vladymyrov (Google); Thomas Unterthiner (Google Research, Brain Team) <br />
+<abstract>Neural networks are often optimized in a fixed parameter space, i.e. architectures are chosen before training and kept constant. In this work we instead focus on starting training with a small seed architecture and letting the network grow itself using a simple idea: maximizing gradients. Studying this idea we propose a new technique called Gradient Maximizing Growth (GradMax). GradMax is fast, maximizes gradient norm and improves optimization speed/time.</abstract>
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
 
-<div id="presentation-embed-38941577"></div>
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38941577', {
-        presentationId: '38941577',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
 
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Characterizing the Latent Space of Molecular Deep Generative Models with Persistent Homology Metrics** (Spotlight presentation)<br />
+**GRADIENT MATCHING FOR EFFICIENT LEARNING** <br />
 Yair Schiff &bull; Payel Das &bull; Vijil Chenthamarakshan &bull; Karthikeyan Natesan Ramamurthy<br />
 <abstract>Deep generative models are increasingly becoming integral parts of the in silico molecule design pipeline and have dual goals of learning the chemical and structural features that render candidate molecules viable while also being flexible enough to generate novel designs. Specifically, Variational Auto Encoders (VAEs) are generative models in which encoder-decoder network pairs are trained to reconstruct training data distributions in such a way that the latent space of the encoder network is smooth. Therefore, novel candidates can be found by sampling from this latent space. However, the scope of architectures and hyperparameters is vast and choosing the best combination for in silico discovery has important implications for downstream success. Therefore, it is important to develop a principled methodology for distinguishing how well a given generative model is able to learn salient molecular features. In this work, we propose a method for measuring how well the latent space of deep generative models is able to encode structural and chemical features of molecular datasets by correlating latent space metrics with metrics from the field of topological data analysis (TDA). We apply our evaluation methodology to a VAE trained on SMILES strings and show that 3D topology information is consistently encoded throughout the latent space of the model.</abstract>
 
