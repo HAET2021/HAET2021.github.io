@@ -14,7 +14,7 @@ This is the list of all accepted papers.
 
 [PDF](https://openreview.net/pdf?id=Aw9DUXPjq55) &bull;
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
-[Presentation](https://openreview.net/forum?id=Aw9DUXPjq55)
+[Presentation](https://youtu.be/IYm0v6OxYU0)
 
 
 **GRADIENT MATCHING FOR EFFICIENT LEARNING** <br />
