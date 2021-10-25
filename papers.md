@@ -157,4 +157,13 @@ Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=AN6v6MkWG__)
 
+**EFFICIENT TRAINING UNDER LIMITED RESOURCES** <br />
+Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel<br />
+<abstract>Training time budget and size of the dataset are among the factors affecting the performance of a Deep Neural Network (DNN). This paper shows that Neural Architecture Search (NAS), Hyper Parameters Optimization (HPO), and Data Augmentation help DNNs perform much better while these two factors are limited. However, searching for an optimal architecture and the best hyperparameter values besides a good combination of data augmentation techniques under low resources requires many experiments. We present our approach to achieving such a goal in three steps: reducing training epoch time by compressing the model while maintaining the performance compared to the original model, preventing model overfitting when the dataset is small, and performing the hyperparameter tuning. We used NOMAD, which is a blackbox optimization software based on a derivative-free algorithm to do NAS and HPO. Our work achieved an accuracy of 86.0% on a tiny subset of Mini-ImageNet (Vinyals et al., 2016) at the ICLR 2021 Hardware Aware Efficient Training (HAET) Challenge and won second place in the competition.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
 
