@@ -116,7 +116,7 @@ Tim Dockhorn; Yaoliang Yu; Vahid Partovi Nia; Eyyüb Sari<br />
 </abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) 
 
 
 
