@@ -104,7 +104,54 @@ Ifigeneia Apostolopoulou; Elan Rosenfeld; Artur Dubrawski<br />
 
 **ADAPTIVE FILTERS AND AGGREGATOR FUSION FOR EFFICIENT GRAPH CONVOLUTIONS** <br />
 Shyam A Tailor; Felix Opolka; Pietro Lió; Nic Lane<br />
-<abstract>TTraining and deploying graph neural networks (GNNs) remains difficult due to their high memory consumption and inference latency. In this work we present a new type of GNN architecture that achieves state-of-the-art performance with lower memory consumption and latency, along with characteristics suited to accelerator implementation. Our proposal uses memory proportional to the number of vertices in the graph, in contrast to competing methods which require memory proportional to the number of edges; we find our efficient approach actually achieves higher accuracy than competing approaches across 5 large and varied datasets against strong baselines. We achieve our results by using a novel adaptive filtering approach inspired by signal processing; it can be interpreted as enabling each vertex to have its own weight matrix, and is not related to attention. Following our focus on efficient hardware usage, we propose aggregator fusion, a technique to enable GNNs to significantly boost their representational power, with only a small increase in latency of 19% over standard sparse matrix multiplication. Code and pretrained models can be found at this URL: https://github.com/shyam196/egc.</abstract>
+<abstract>Training and deploying graph neural networks (GNNs) remains difficult due to their high memory consumption and inference latency. In this work we present a new type of GNN architecture that achieves state-of-the-art performance with lower memory consumption and latency, along with characteristics suited to accelerator implementation. Our proposal uses memory proportional to the number of vertices in the graph, in contrast to competing methods which require memory proportional to the number of edges; we find our efficient approach actually achieves higher accuracy than competing approaches across 5 large and varied datasets against strong baselines. We achieve our results by using a novel adaptive filtering approach inspired by signal processing; it can be interpreted as enabling each vertex to have its own weight matrix, and is not related to attention. Following our focus on efficient hardware usage, we propose aggregator fusion, a technique to enable GNNs to significantly boost their representational power, with only a small increase in latency of 19% over standard sparse matrix multiplication. Code and pretrained models can be found at this URL: https://github.com/shyam196/egc.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+**An Exact Penalty Method for Binary Training** <br />
+Tim Dockhorn; Yaoliang Yu; Vahid Partovi Nia; Eyyüb Sari<br />
+<abstract>It is common practice to quantize a subset of the network parameters to deploy deep neural networks on resource-constrained devices, such as cell phones, IoT devices, autonomous cars, etc. Techniques to quantize models include the straightthrough gradient method and model regularization. Generally, these methods do not ensure convergence of the optimization algorithm. We propose an exact penalty method for binary quantization that converges finitely to {−1, 1}. An empirical study shows that our approach leads to competitive performance on CIFAR-10 with ResNets. We further show that the penalty parameter can be used as a knob for training efficiency: larger values give faster convergence whereas smaller values lead to superior performance. As an extension, we demonstrate why our algorithm is well-suited for convex objectives with binary constraints and we show how our method can be extended to other discrete constraint sets.
+</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+
+**TRAINING CNNS FASTER WITH INPUT AND KERNEL DOWNSAMPLING** <br />
+Zissis Poulos; Ali Nouri; Andreas Moshovos<br />
+<abstract>We reduce the total number of floating-point operations (FLOPs) required for training convolutional neural networks (CNNs) with a method that, for some of the mini-batches, a) scales down the resolution of input images via downsampling, and b) reduces the number of forward pass operations via pooling on the convolution filters. Training is performed in an interleaved fashion; some batches follow the regular forward and backpropagation schedule with original network parameters, whereas others undergo a forward pass with pooled filters and downsampled inputs. Since pooling is differentiable, gradients of the pooled filters flow back to the original network parameters for a standard parameter update. Experiments with residual architectures on CIFAR-10 show that we can achieve up to 23% reduction in training time with up to 2.9% relative increase in validation error.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**ON-FPGA TRAINING WITH ULTRA MEMORY REDUCTION: A LOW- PRECISION TENSOR METHOD** <br />
+Kaiqi Zhang; Cole Hawkins; Xiyuan Zhang; Cong Hao; Zheng Zhang<br />
+<abstract>Various hardware accelerators have been developed for energy-efficient and real-time inference of neural networks on edge devices. However, most training is done on high-performance GPUs or servers, and the huge memory and computing costs prevent training neural networks on edge devices. This paper proposes a novel tensor-based training framework, which offers orders-of-magnitude memory reduction in the training process. We propose a novel rank-adaptive tensorized neural network model, and design a hardware-friendly low-precision algorithm to train this model. We present an FPGA accelerator to demonstrate the benefits of this training method on edge devices. Our preliminary FPGA implementation achieves 59× speedup and 123× energy reduction compared to embedded CPU, and 292× memory reduction over a standard full-size training.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+
+**MoIL: ENABLING EFFICIENT INCREMENTAL TRAINING ON EDGE DEVICES** <br />
+Jiacheng Yang; James Gleeson; Mostafa Elhoushi; Gennady Pekhimenko<br />
+<abstract>Edge devices such as smartphones are increasingly becoming the end target hardware for deploying compute heavy deep neural networks (DNN). However, given that mobile platforms have less computational power than cloud servers, edge deployments have been limited to inference workloads, with training being performed in the cloud. Unfortunately, forgoing training on-device prevents tailoring of DNN models to user data, and results in lower accuracy on data seen by the user in-the-wild. In this work, we show that training on-device is possible on today’s mobile platforms by training deployed models incrementally, and that it can be done efficiently and accurately. We demonstrate that three optimizations — global dataset mixing, last layer training, and feature map caching — can be applied to reduce the computational overhead of incremental training from 7 months to 38.8 minutes, while still maintaining high accuracy on both curated datasets (e.g., ImageNet) and local user data observed in-the-wild.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+
+**HETEROGENEOUS ZERO-SHOT FEDERATED LEARNING WITH NEW CLASSES FOR AUDIO CLASSIFICATION** <br />
+Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
+<abstract>Federated learning is an effective way of extracting insights from different user devices while preserving the privacy of users. However, new classes with completely unseen data distributions can stream across any device in a federated learning setting, whose data cannot be accessed by the global server or other users. To this end, we propose a unified zero-shot framework to handle these aforementioned challenges during federated learning. We simulate two scenarios here – 1) when the new class labels are not reported by the user, the traditional FL setting is used; 2) when new class labels are reported by the user, we synthesize Anonymized Data Impressions by calculating class similarity matrices corresponding to each device’s new classes followed by unsupervised clustering to distinguish between new classes across different users. Moreover, our proposed framework can also handle statistical heterogeneities in both labels and models across the participating users. We empirically evaluate our framework on-device across different communication rounds (FL iterations) with new classes in both local and global updates, along with heterogeneous labels and models, on two widely used audio classification applications – keyword spotting and urban sound classification, and observe an average deterministic accuracy increase of ∼4.041% and ∼4.258% respectively.</abstract>
 
 [PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
 [Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
