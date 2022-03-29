@@ -1,4 +1,4 @@
-# Important Dates ss
+# Important Dates 
 
 - Paper submission deadline: 28 February 2021 (11:59 pm UTC-11).
 - Acceptance notification: 26 March 2021.
