@@ -2,11 +2,12 @@
 layout: default
 title: Accepted Papers
 ---
+# Full Proceedings
+[Proceedings of the Hardware Aware Efficient Training workshop 2021](https://www.dropbox.com/s/ayuwc0t0gesbb4c/haet2021_proceedings.pdf?dl=0) May 7, 2021. International Conference on Learning Representations (ICLR 2021)
 
-This is the list of all accepted papers. 
 
 
-# Spotlights
+# Accepted papers
 
 **GradMax: Gradient Maximizing Neural Network Growth** 
  <br /> Utku Evci; Fabian Pedregosa; Max Vladymyrov; Thomas Unterthiner<br />
