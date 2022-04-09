@@ -152,6 +152,13 @@ Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 [Poster](https://www.dropbox.com/s/rvsqf3n1nbm9guc/HETEROGENEOUS%20ZERO-SHOT%20FEDERATED%20LEARNING%20WITH%20NEW%20CLASSES%20FOR%20AUDIO%20CLASSIFICATION%20Poster.pdf?dl=0) &bull;
 [Presentation](https://youtu.be/8MQ8bAXT7eQ)
 
+**SCALING DEEP NETWORKS WITH THE MESH ADAPTIVE DIRECT SEARCH ALGORITHM** 
+ <br /> Dounia Lakhmiri∗, Mahdi Zolnouri, Vahid Partovi Nia, Christophe Tribes, Sebastien Le Digabel <br />
+<abstract> Deep neural networks are getting larger. Their implementation on edge and IoT devices becomes more challenging and moved the community to design lighter versions with similar performance. Standard automatic design tools such as reinforcement learning and evolutionary computing fundamentally rely on cheap evaluations of an objective function. In the neural network design context, this objective is the accuracy after training, which is expensive and time-consuming to evaluate. We automate the design of a light deep neural network for image classification using the Mesh Adaptive Direct Search (MADS) algorithm, a mature derivative-free optimization method that effectively accounts for the expensive blackbox nature of the objective function to explore the design space, even in the presence of constraints. Our tests show competitive compression rates with reduced numbers of trials.</abstract>
+
+[PDF](https://www.dropbox.com/s/92v0y5jhu0hym6y/160_164.pdf?dl=0) &bull;
+[Poster](https://www.dropbox.com/s/t78g5bph7b5r1g6/165.pdf?dl=0) &bull;
+
 **FIRST PRIZE CHALLENGE WINNER: IMPROVING RESNET-9 GENERALIZATION TRAINED ON SMALL DATASETS** 
  <br /> Omar Mohamed Awad∗, Habib Hajimolahoseini, Michael Lim, Gurpreet Gosal, Walid Ahmed, Yang Liu, Gordon Deng<br />
 <abstract> This paper presents our proposed approach that won the first prize at the ICLR competition ”Hardware Aware Efficient Training”. The challenge is to achieve the highest possible accuracy in an image classification task in less than 10 minutes. The training is done on a small dataset of 5000 images picked randomly from CIFAR-10 dataset. The evaluation is performed by the competition organizers on a secret dataset with 1000 images of the same size. Our approach includes applying a series of technique for improving the generalization of ResNet-9 including: sharpness aware optimization, label smoothing, gradient centralization, input patch whitening as well as meta-learning based training. Our experiments show that the ResNet-9 can achieve the accuracy of 88% while trained only on a 10% subset of CIFAR10 dataset in less than 10 minuets.</abstract>
@@ -164,7 +171,7 @@ Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel<br />
 <abstract>Training time budget and size of the dataset are among the factors affecting the performance of a Deep Neural Network (DNN). This paper shows that Neural Architecture Search (NAS), Hyper Parameters Optimization (HPO), and Data Augmentation help DNNs perform much better while these two factors are limited. However, searching for an optimal architecture and the best hyperparameter values besides a good combination of data augmentation techniques under low resources requires many experiments. We present our approach to achieving such a goal in three steps: reducing training epoch time by compressing the model while maintaining the performance compared to the original model, preventing model overfitting when the dataset is small, and performing the hyperparameter tuning. We used NOMAD, which is a blackbox optimization software based on a derivative-free algorithm to do NAS and HPO. Our work achieved an accuracy of 86.0% on a tiny subset of Mini-ImageNet (Vinyals et al., 2016) at the ICLR 2021 Hardware Aware Efficient Training (HAET) Challenge and won second place in the competition.</abstract>
 
-[PDF](https://www.dropbox.com/s/vtod5u35mimxlab/EFFICIENT%20TRAINING%20UNDER%20LIMITED%20RESOURCES%20Paper.pdf?dl=0) 
+[PDF](https://www.dropbox.com/s/vtod5u35mimxlab/EFFICIENT%20TRAINING%20UNDER%20LIMITED%20RESOURCES%20Paper.pdf?dl=0) &bull; 
 [Poster](https://www.dropbox.com/s/82wvdyvud2ic3bl/162.pdf?dl=0) &bull;
 
 
