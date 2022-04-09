@@ -152,7 +152,15 @@ Gautham Krishna Gudur (Ericsson)*; Satheesh K Perepu (Ericsson)<br />
 [Poster](https://www.dropbox.com/s/rvsqf3n1nbm9guc/HETEROGENEOUS%20ZERO-SHOT%20FEDERATED%20LEARNING%20WITH%20NEW%20CLASSES%20FOR%20AUDIO%20CLASSIFICATION%20Poster.pdf?dl=0) &bull;
 [Presentation](https://youtu.be/8MQ8bAXT7eQ)
 
-**EFFICIENT TRAINING UNDER LIMITED RESOURCES** <br />
+**FIRST PRIZE CHALLENGE WINNER: IMPROVING RESNET-9 GENERALIZATION TRAINED ON SMALL DATASETS** 
+ <br /> Omar Mohamed Awad∗, Habib Hajimolahoseini, Michael Lim, Gurpreet Gosal, Walid Ahmed, Yang Liu, Gordon Deng<br />
+<abstract> This paper presents our proposed approach that won the first prize at the ICLR competition ”Hardware Aware Efficient Training”. The challenge is to achieve the highest possible accuracy in an image classification task in less than 10 minutes. The training is done on a small dataset of 5000 images picked randomly from CIFAR-10 dataset. The evaluation is performed by the competition organizers on a secret dataset with 1000 images of the same size. Our approach includes applying a series of technique for improving the generalization of ResNet-9 including: sharpness aware optimization, label smoothing, gradient centralization, input patch whitening as well as meta-learning based training. Our experiments show that the ResNet-9 can achieve the accuracy of 88% while trained only on a 10% subset of CIFAR10 dataset in less than 10 minuets.</abstract>
+
+[PDF](https://www.dropbox.com/s/dg1vjxuwp6haw8x/148_151.pdf?dl=0) &bull;
+[Poster](https://www.dropbox.com/s/vgs9kppxkiej075/152.pdf?dl=0) &bull;
+
+
+**SECOND PRIZE CHALLENGE WINNER: EFFICIENT TRAINING UNDER LIMITED RESOURCES** <br />
 Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel<br />
 <abstract>Training time budget and size of the dataset are among the factors affecting the performance of a Deep Neural Network (DNN). This paper shows that Neural Architecture Search (NAS), Hyper Parameters Optimization (HPO), and Data Augmentation help DNNs perform much better while these two factors are limited. However, searching for an optimal architecture and the best hyperparameter values besides a good combination of data augmentation techniques under low resources requires many experiments. We present our approach to achieving such a goal in three steps: reducing training epoch time by compressing the model while maintaining the performance compared to the original model, preventing model overfitting when the dataset is small, and performing the hyperparameter tuning. We used NOMAD, which is a blackbox optimization software based on a derivative-free algorithm to do NAS and HPO. Our work achieved an accuracy of 86.0% on a tiny subset of Mini-ImageNet (Vinyals et al., 2016) at the ICLR 2021 Hardware Aware Efficient Training (HAET) Challenge and won second place in the competition.</abstract>
 
